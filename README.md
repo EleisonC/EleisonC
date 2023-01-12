@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EleisonC
-- 👀 I’m interested in QA & Full Stack Development
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m @EleisonC, but you can call me Chris
+- 👀 I’m interested in QA & Full Stack Development, Go
+- 🌱 I’m currently learning Golang, Kubernetes
 - 💞️ I’m looking to collaborate on Golang projects, React projects, Opensource.
 <!---
 EleisonC/EleisonC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
