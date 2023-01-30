@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EleisonC, but you can call me Chris
-- 👀 I’m interested in QA & Full Stack Development, Go
+- 👀 I’m interested in QA & Full Stack Development, Go, AI🤯.
 - 🌱 I’m currently learning Golang, Kubernetes
 - 💞️ I’m looking to collaborate on Golang projects, React projects, Opensource.
 <!---
